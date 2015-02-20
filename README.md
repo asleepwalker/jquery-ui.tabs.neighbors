@@ -1,10 +1,10 @@
-#jQueryUI.Tabs.Siblings
+#jQueryUI.Tabs.Neighbors
 
 [jQuery UI][] plugin for [Tabs Widget][] to add previous and next tab buttons.
 
 ```
 $('#tabs').tabs({
-	siblings: {
+	neighbors: {
 		prev: $('button.prev'),
 		next: $('button.next')
 	}

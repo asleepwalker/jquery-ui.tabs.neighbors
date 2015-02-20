@@ -1,8 +1,8 @@
 {
-  "name": "jquery-ui.tabs.siblings",
-  "main": "jquery-ui.tabs.siblings.js",
+  "name": "jquery-ui.tabs.neighbors",
+  "main": "jquery-ui.tabs.neighbors.js",
   "version": "1.0.0",
-  "homepage": "https://github.com/asleepwalker/jquery-ui.tabs.siblings",
+  "homepage": "https://github.com/asleepwalker/jquery-ui.tabs.neighbors",
   "authors": [
     "Artyom 'Sleepwalker' Fedosov <mail@asleepwalker.ru>"
   ],

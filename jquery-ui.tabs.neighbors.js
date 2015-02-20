@@ -1,7 +1,7 @@
 /*
-*	jQuery UI > Tabs Widget > Siblings, v1.0
+*	jQuery UI > Tabs Widget > Neighbors, v1.0.0
 *	(c) 2014 Artyom "Sleepwalker" Fedosov <mail@asleepwalker.ru>
-*	https://github.com/asleepwalker/jquery-ui.tabs.siblings.js
+*	https://github.com/asleepwalker/jquery-ui.tabs.neighbors.js
 */
 
 (function($) {
@@ -14,7 +14,7 @@
 	}
 
 	$.extend($.ui.tabs.prototype, {
-		siblings: {
+		neighbors: {
 			prev: false,
 			next: false 
 		},
@@ -24,7 +24,7 @@
 			
 			originalCreate.call(widget);
 
-			if (s = widget.options.siblings) {
+			if (s = widget.options.neighbors) {
 				if (s.prev && s.prev instanceof $) {
 					s.prev.on('click', function() {
 						openSibling.call(widget, false);
