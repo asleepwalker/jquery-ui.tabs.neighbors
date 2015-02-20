@@ -1,0 +1,32 @@
+{
+  "name": "jquery-ui.tabs.siblings",
+  "main": "jquery-ui.tabs.siblings.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/asleepwalker/jquery-ui.tabs.siblings",
+  "authors": [
+    "Artyom 'Sleepwalker' Fedosov <mail@asleepwalker.ru>"
+  ],
+  "description": "jQuery UI plugin for Tabs Widget to add previous and next tab buttons",
+  "keywords": [
+    "jquery",
+    "jquery-ui",
+    "tabs",
+    "navi",
+    "buttons",
+    "neighbors",
+    "carousel",
+    "widget"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": ">=1.6",
+    "jquery-ui": ">=1.0"
+  }
+}
