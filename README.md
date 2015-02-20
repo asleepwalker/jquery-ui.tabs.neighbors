@@ -1,4 +1,4 @@
-#jQuery UI > Tabs Widget > Siblings
+#jQueryUI.Tabs.Siblings
 
 [jQuery UI][] plugin for [Tabs Widget][] to add previous and next tab buttons.
 
