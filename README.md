@@ -1,6 +1,6 @@
 #jQueryUI.Tabs.Neighbors
 
-[jQuery UI][] plugin for [Tabs Widget][] to add previous and next tab buttons.
+[jQuery UI](http://jqueryui.com/) plugin for [Tabs Widget](http://jqueryui.com/tabs/) to add previous and next tab buttons.
 
 ```
 $('#tabs').tabs({
@@ -10,6 +10,8 @@ $('#tabs').tabs({
 	}
 });
 ```
+### <a href="http://asleepwalker.github.io/jquery-ui.tabs.neighbors/">Demo</a>
 
- [jQuery UI]: http://jqueryui.com/
- [Tabs Widget]: http://jqueryui.com/tabs/
+## License
+
+The MIT License.
