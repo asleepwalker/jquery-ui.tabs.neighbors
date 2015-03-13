@@ -1,0 +1,28 @@
+.wrapper {
+	margin: 0 auto;
+	max-width: 600px;
+	padding: 0 50px;
+}
+
+#tabs {
+	position: relative;
+}
+
+button {
+	font-size: 150%;
+	position: absolute;
+	top: 120px;
+}
+button.prev {
+	left: -45px;
+}
+button.next {
+	right: -45px;
+}
+
+a.repo {
+	text-decoration: none;
+}
+a.repo:hover {
+	text-decoration: underline;
+}
