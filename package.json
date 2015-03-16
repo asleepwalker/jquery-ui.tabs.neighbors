@@ -1,0 +1,34 @@
+{
+  "name": "jquery-ui.tabs.neighbors",
+  "version": "1.0.0",
+  "description": "jQuery UI plugin for Tabs Widget to add previous and next tab buttons",
+  "main": "jquery-ui.tabs.neighbors.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/asleepwalker/jquery-ui.tabs.neighbors.git"
+  },
+  "keywords": [
+    "jquery",
+    "jquery-ui",
+    "tabs",
+    "navi",
+    "buttons",
+    "neighbors",
+    "carousel",
+    "widget",
+    "jquery-plugin"
+  ],
+  "author": "Artyom 'Sleepwalker' Fedosov <mail@asleepwalker.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asleepwalker/jquery-ui.tabs.neighbors/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-jshint": "~0.11.0",
+    "grunt-jscs": "~1.5.0"
+  }
+}
