@@ -10,6 +10,8 @@ $('#tabs').tabs({
 	}
 });
 ```
+
+![neighbors](https://cloud.githubusercontent.com/assets/5080313/9653688/fed058b2-522d-11e5-8a82-4fbe23efa14d.png)
 ### <a href="http://asleepwalker.github.io/jquery-ui.tabs.neighbors/">Demo</a>
 
 ## License
