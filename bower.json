@@ -1,6 +1,6 @@
 {
   "name": "jquery-ui.tabs.neighbors",
-  "main": "jquery-ui.tabs.neighbors.js",
+  "main": "./lib/jquery-ui.tabs.neighbors.js",
   "version": "1.0.0",
   "homepage": "https://github.com/asleepwalker/jquery-ui.tabs.neighbors",
   "authors": [
